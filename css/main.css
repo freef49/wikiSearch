@@ -131,7 +131,8 @@ h1{
 }
 
 .boxHover{
-    text-shadow: 0.1em 0.1em #B37C9D;
+    color: #B3D4F4;
+    text-decoration: underline;
 }
 
 #searchField{
